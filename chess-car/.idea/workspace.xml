@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e5cd131-cb22-4451-9c9a-776b10601ce9" name="Default Changelist" comment="五子棋小游戏">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/common/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/dto/BalanceDetailDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/dto/BalanceallDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/dto/GatewayDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/dto/GatewayNotifyDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/dto/QueryDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/dto/RefundDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/dto/RefundNotifyDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/dto/ServerResp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/severlet/BalanceDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/severlet/Balanceall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/severlet/BaseContro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/severlet/GatewayWeb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/severlet/GatewayWebNotify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/severlet/Query.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/severlet/Refund.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/severlet/RefundNotify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/util/ByteUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/util/DateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/util/EncryptionUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/util/HttpClientTool$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/util/HttpClientTool$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/util/HttpClientTool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/util/JsonMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/util/SignatureManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/util/SignatureUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/util/StringUnicodeSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/classes/com/zhihuianxin/util/StringUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/commons-beanutils-1.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/commons-codec-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/commons-collections-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/commons-digester-1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/commons-httpclient-3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/commons-lang-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/commons-lang3-3.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/commons-logging-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/fastjson-1.1.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/httpclient-4.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/httpcore-4.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/jackson-annotations-2.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/jackson-core-2.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/jackson-databind-2.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/json-lib-2.2.2-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/jstl-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/lombok.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/slf4j-api-1.6.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/lib/slf4j-log4j12-1.6.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/js/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/js/jquery.md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/artifacts/paycenter_demo_war_exploded/pay.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/production/paycenter_demo/com/zhihuianxin/dto/BalanceDetailDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/production/paycenter_demo/com/zhihuianxin/dto/BalanceallDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/production/paycenter_demo/com/zhihuianxin/dto/GatewayNotifyDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/production/paycenter_demo/com/zhihuianxin/dto/QueryDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/production/paycenter_demo/com/zhihuianxin/dto/RefundDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/production/paycenter_demo/com/zhihuianxin/dto/RefundNotifyDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/production/paycenter_demo/com/zhihuianxin/dto/ServerResp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/production/paycenter_demo/com/zhihuianxin/util/HttpClientTool$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paycenter_demo/paycenter_demo/out/production/paycenter_demo/com/zhihuianxin/util/SignatureManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-api/target/test-classes/BaseCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-api/target/test-classes/CutCode.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1541526772">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-18" />
+    <option name="y" value="58" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chess-car" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chess-car" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chess-car" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chess-car" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chess-car" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chess-car" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e5cd131-cb22-4451-9c9a-776b10601ce9" name="Default Changelist" comment="" />
+      <created>1555569001723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555569001723</updated>
+      <workItem from="1555569004599" duration="122000" />
+    </task>
+    <task id="LOCAL-00001" summary="五子棋小游戏">
+      <created>1555569063670</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555569063670</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="122000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="五子棋小游戏" />
+    <option name="LAST_COMMIT_MESSAGE" value="五子棋小游戏" />
+  </component>
+</project>
